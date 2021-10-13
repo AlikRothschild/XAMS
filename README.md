@@ -4,8 +4,8 @@ Ximerix Applications Managment System
 
 Description
 -----------
-XIMERIX Language was developed for an advanced and fast applications
-upon creating, managing and hosting websites on a blockchain.
+XIMERIX framework was developed for building advanced and fast applications
+on blockchain like bitcoin, litcoin, abwebcash, rfxcoin. Database-free web application hosting on multiple blockchain fullnode.
 
 Notable features
 ----------------
@@ -13,8 +13,9 @@ Notable features
 * blockchain system file manager
 * Blockchain Blogging application
 * Bitcoin transactions builder
-* Signing and verifying messages with bitcoin address
+* Signing and verifying messages with website address
 * Litecoin support
+* Algobotweb Cash(abweb) support
 * Reflexcoin support
 * p2p live video/audio stream system
 * p2p crypto transaction system
