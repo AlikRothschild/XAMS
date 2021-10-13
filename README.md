@@ -2,6 +2,8 @@ XAMS
 ===========
 Ximerix Applications Managment System
 
+[![XMS Package](https://img.shields.io/npm/v/xms-cli.svg?style=flat-square)](https://www.npmjs.org/package/xms-cli)
+
 Description
 -----------
 XIMERIX framework was developed for building advanced and fast applications
