@@ -2,7 +2,7 @@ XAMS
 ===========
 Ximerix Applications Managment System
 
-[![XMS Package](https://img.shields.io/npm/v/xms-cli.svg?style=flat-square)](https://www.npmjs.org/package/xms-cli)
+![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAlikRothschild%2FXAMS%2Fmain%2Fxms.jason)
 
 Description
 -----------
